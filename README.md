@@ -28,7 +28,3 @@
 
 <p><a href="https://www.buymeacoffee.com/leobonjo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leobonjo" /></a></p><br><br>
 
-<h3></h3>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leobonjo&" alt="leobonjo" /></p>
