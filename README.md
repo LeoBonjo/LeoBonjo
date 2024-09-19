@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hi!+I'm+Leo+%F0%9F%92%A1+;I+build+interactive+Full+Stack+apps)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4996&pause=1000&center=true&width=1000&lines=Hi!+I'm+Leo+%F0%9F%92%A1+;I+build+interactive+Full+Stack+apps)](https://git.io/typing-svg)
 <h3 align="center">A valiant Full Stack developer with extensive management experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leobonjo&label=Profile%20views&color=0e75b6&style=flat" alt="leobonjo" /> </p>
