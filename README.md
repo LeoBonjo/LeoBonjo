@@ -1,18 +1,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4996&pause=1000&center=true&width=1000&lines=Hi!+I'm+Leo+%F0%9F%92%A1+;I+build+interactive+Full+Stack+apps)](https://git.io/typing-svg)
-<h3 align="center">A valiant Full Stack developer with extensive management experience</h3>
+<h3 align="center">A valiant Full Stack developer. Befriend the bugs 🐞🦋🐛</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leobonjo&label=Profile%20views&color=0e75b6&style=flat" alt="leobonjo" /> </p>
 
-- 🔭 I’m currently working on [Bolt Bookkeeping](https://github.com/LeoBonjo/Bolt-Bookkeeping)
+- 🔭 I’m currently working on [Tasteful Traditions](https://radiant-river-23787-82ff4574e111.herokuapp.com/)
 
-- 🌱 I’m currently learning **Node.js application development**
+- 🌱 I’m currently learning **Linux CentOS** and **Django**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/tailwind-portfolio-code/overview](https://app.netlify.com/sites/tailwind-portfolio-code/overview)
+- 💬 Ask me about **study resources for AWS Cloud Practitioner certification**
 
-- 💬 Ask me about **MySQL database structures**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MxZ0jumaoY9vCLxZKUNPoz_FPF_9m64Psn0V0EKP3FI/edit?usp=sharing](https://docs.google.com/document/d/1MxZ0jumaoY9vCLxZKUNPoz_FPF_9m64Psn0V0EKP3FI/edit?usp=sharing)
+- 👨‍💻 Some projects I've built demonstrating frontend functionalities are available at [React Portfolio](https://app.netlify.com/sites/tailwind-portfolio-code/overview)
 
 - ⚡ Fun fact **Hippopotami can become airborne 🦛🛫✈️**
 
