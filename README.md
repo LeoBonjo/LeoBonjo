@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some mini-projects I've built to showcase frontend functionalities are available at [React Portfolio](https://app.netlify.com/sites/tailwind-portfolio-code/overview)
 
-- ⚡ Fun fact **Hippopotami can become airborne 🦛🛫✈️**
+- ⚡ Fun fact **'Code' comes from the Latin 'Codex'** meaning tree trunk 🌳
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
