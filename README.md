@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leobonjo&label=Profile%20views&color=0e75b6&style=flat" alt="leobonjo" /> </p>
 
-- 🔭 I’m currently working on [Tasteful Traditions](https://radiant-river-23787-82ff4574e111.herokuapp.com/)
+- 🔭 Working on **Open Source Contributions** and **Backlog projects for FAO EuFMD**
 
-- 🌱 I’m currently learning **Linux CentOS** and **Django**
+- 🌱 Learning **Linux CentOS** and **Amazon Web Services (AWS)**
 
-- 💬 Ask me about **study resources for AWS Cloud Practitioner certification**
+- 💬 Ask me about **transitioning from education -> tech**
 
-- 👨‍💻 Some mini-projects I've built to showcase frontend functionalities are available at [React Portfolio](https://app.netlify.com/sites/tailwind-portfolio-code/overview)
+- 👨‍💻 Some mini-projects showcasing React functionalities are [here](https://app.netlify.com/sites/tailwind-portfolio-code/overview)
 
-- ⚡ Fun fact **'Code' comes from the Latin 'Codex'** meaning tree trunk 🌳
+- ⚡ Fun fact **GitHub Copilot is actually my cat** meaning tree trunk 🌳
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
