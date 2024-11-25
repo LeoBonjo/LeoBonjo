@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some mini-projects showcasing React functionalities are [here](https://app.netlify.com/sites/tailwind-portfolio-code/overview)
 
-- ⚡ Fun fact **GitHub Copilot is actually my cat** meaning tree trunk 🌳
+- 🐱 Fun fact **GitHub Copilot is just my cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
