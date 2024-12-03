@@ -6,13 +6,13 @@
 
 - 🔭 Working on **Open Source Contributions** and **Backlog projects for FAO EuFMD**
 
-- 🌱 Learning **Linux CentOS** and **Amazon Web Services (AWS)**
+- 🌱 Learning **Python for Data Science** and **Amazon Web Services (AWS)**
 
-- 💬 Ask me about **transitioning from education -> tech**
+- 💬 Ask me about **transitioning from public education --> tech**
 
 - 👨‍💻 Some mini-projects showcasing React functionalities are [here](https://app.netlify.com/sites/tailwind-portfolio-code/overview)
 
-- 🐱 Fun fact **GitHub Copilot is just my cat**
+- 🦛 Fun fact **Hippopotami can become airborne**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
